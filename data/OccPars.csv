@@ -1,0 +1,222 @@
+"Common","com","Scientific","Scale","Par_Name","Par","Mean","Lower90","Upper90","Prob_pos"
+"pallid bat","Pallid","Antrozous pallidus","500","Severity","b_sev",0.652,0.197,1.116,0.993
+"pallid bat","Pallid","Antrozous pallidus","500","SMM_U1","a_mic",0.053,-0.481,0.572,0.565
+"pallid bat","Pallid","Antrozous pallidus","500","Severity Sq","b_sevsq",0.191,-0.278,0.67,0.744
+"pallid bat","Pallid","Antrozous pallidus","500","Day Sq","a_jday2",-0.303,-0.652,0.054,0.084
+"pallid bat","Pallid","Antrozous pallidus","500","Intercept (occ)","beta",-1.378,-2.482,-0.225,0.03
+"pallid bat","Pallid","Antrozous pallidus","500","Intercept (det)","alpha",-1.597,-2.185,-1.041,0
+"pallid bat","Pallid","Antrozous pallidus","500","Temperature","a_temp",-0.136,-0.472,0.201,0.255
+"pallid bat","Pallid","Antrozous pallidus","500","Canopy Cover","a_cc",0.479,0.158,0.81,0.992
+"pallid bat","Pallid","Antrozous pallidus","500","Noise","a_noise",-0.416,-0.712,-0.112,0.011
+"pallid bat","Pallid","Antrozous pallidus","500","Water Distance","b_distw",0.282,-0.186,0.753,0.84
+"pallid bat","Pallid","Antrozous pallidus","500","Day","a_jday",-0.199,-0.566,0.174,0.194
+"pallid bat","Pallid","Antrozous pallidus","500","Pyrodiversity","b_sevsd",-0.317,-0.792,0.149,0.124
+"pallid bat","Pallid","Antrozous pallidus","500","Elevation","b_elev",-0.187,-0.658,0.283,0.26
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Intercept (det)","alpha",-3.4,-5.227,-1.531,0.001
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Day","a_jday",-0.312,-0.962,0.335,0.219
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Day Sq","a_jday2",-0.175,-0.815,0.449,0.324
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Noise","a_noise",-0.363,-1.025,0.276,0.173
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Intercept (occ)","beta",-2.101,-3.928,0.091,0.058
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Temperature","a_temp",0.063,-0.586,0.709,0.561
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Water Distance","b_distw",-0.226,-0.922,0.479,0.288
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Pyrodiversity","b_sevsd",-0.308,-0.996,0.355,0.211
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","SMM_U1","a_mic",-0.213,-0.983,0.551,0.314
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Canopy Cover","a_cc",-0.111,-0.81,0.611,0.388
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Elevation","b_elev",-0.377,-1.052,0.291,0.187
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Severity Sq","b_sevsq",-0.073,-0.778,0.642,0.433
+"Townsend's big-eared bat","Townsend's","Corynorhinus townsendii","500","Severity","b_sev",0.031,-0.668,0.731,0.539
+"big brown bat","Big brown","Eptesicus fuscus","500","Temperature","a_temp",0.327,0.17,0.49,1
+"big brown bat","Big brown","Eptesicus fuscus","500","Severity Sq","b_sevsq",-0.127,-0.519,0.274,0.297
+"big brown bat","Big brown","Eptesicus fuscus","500","Severity","b_sev",0.378,0,0.757,0.95
+"big brown bat","Big brown","Eptesicus fuscus","500","Intercept (occ)","beta",1.234,0.52,1.939,0.989
+"big brown bat","Big brown","Eptesicus fuscus","500","Intercept (det)","alpha",0.054,-0.185,0.289,0.646
+"big brown bat","Big brown","Eptesicus fuscus","500","Canopy Cover","a_cc",-0.325,-0.46,-0.193,0
+"big brown bat","Big brown","Eptesicus fuscus","500","Elevation","b_elev",0.628,0.267,0.995,0.997
+"big brown bat","Big brown","Eptesicus fuscus","500","Day","a_jday",0.404,0.225,0.581,1
+"big brown bat","Big brown","Eptesicus fuscus","500","SMM_U1","a_mic",-0.001,-0.249,0.248,0.497
+"big brown bat","Big brown","Eptesicus fuscus","500","Day Sq","a_jday2",-0.772,-0.967,-0.58,0
+"big brown bat","Big brown","Eptesicus fuscus","500","Pyrodiversity","b_sevsd",-0.149,-0.47,0.181,0.215
+"big brown bat","Big brown","Eptesicus fuscus","500","Water Distance","b_distw",0.191,-0.135,0.507,0.843
+"big brown bat","Big brown","Eptesicus fuscus","500","Noise","a_noise",-0.326,-0.464,-0.193,0
+"spotted bat","Spotted","Euderma maculatum","500","Canopy Cover","a_cc",-0.058,-0.773,0.646,0.442
+"spotted bat","Spotted","Euderma maculatum","500","Water Distance","b_distw",0.13,-0.6,0.851,0.617
+"spotted bat","Spotted","Euderma maculatum","500","Day","a_jday",0.312,-0.416,1,0.784
+"spotted bat","Spotted","Euderma maculatum","500","Elevation","b_elev",-0.058,-0.692,0.593,0.448
+"spotted bat","Spotted","Euderma maculatum","500","Noise","a_noise",-0.112,-0.79,0.546,0.397
+"spotted bat","Spotted","Euderma maculatum","500","Temperature","a_temp",0.07,-0.614,0.717,0.577
+"spotted bat","Spotted","Euderma maculatum","500","Severity","b_sev",0.294,-0.446,1.01,0.741
+"spotted bat","Spotted","Euderma maculatum","500","Intercept (occ)","beta",-2.105,-3.772,-0.037,0.047
+"spotted bat","Spotted","Euderma maculatum","500","Day Sq","a_jday2",-0.125,-0.765,0.522,0.377
+"spotted bat","Spotted","Euderma maculatum","500","Severity Sq","b_sevsq",-0.371,-1.077,0.321,0.187
+"spotted bat","Spotted","Euderma maculatum","500","Pyrodiversity","b_sevsd",0.246,-0.438,0.925,0.736
+"spotted bat","Spotted","Euderma maculatum","500","SMM_U1","a_mic",0.042,-0.737,0.842,0.53
+"spotted bat","Spotted","Euderma maculatum","500","Intercept (det)","alpha",-3.195,-5.098,-1.315,0.003
+"western mastiff bat","Western mastiff","Eumops perotis","50","Canopy Cover","a_cc",0.406,-0.024,0.848,0.94
+"western mastiff bat","Western mastiff","Eumops perotis","50","Intercept (occ)","beta",-0.618,-2.102,1.255,0.243
+"western mastiff bat","Western mastiff","Eumops perotis","50","Day Sq","a_jday2",-0.393,-0.954,0.127,0.11
+"western mastiff bat","Western mastiff","Eumops perotis","50","Elevation","b_elev",-0.093,-0.73,0.57,0.406
+"western mastiff bat","Western mastiff","Eumops perotis","50","Noise","a_noise",-0.252,-0.704,0.181,0.172
+"western mastiff bat","Western mastiff","Eumops perotis","50","Severity Sq","b_sevsq",0.132,-0.517,0.804,0.625
+"western mastiff bat","Western mastiff","Eumops perotis","50","Day","a_jday",0.455,-0.052,0.978,0.927
+"western mastiff bat","Western mastiff","Eumops perotis","50","Water Distance","b_distw",0.135,-0.588,0.824,0.635
+"western mastiff bat","Western mastiff","Eumops perotis","50","Intercept (det)","alpha",-3.388,-4.404,-2.402,0
+"western mastiff bat","Western mastiff","Eumops perotis","50","Pyrodiversity","b_sevsd",0.522,-0.152,1.164,0.907
+"western mastiff bat","Western mastiff","Eumops perotis","50","SMM_U1","a_mic",-0.07,-0.736,0.586,0.432
+"western mastiff bat","Western mastiff","Eumops perotis","50","Temperature","a_temp",0.173,-0.323,0.654,0.712
+"western mastiff bat","Western mastiff","Eumops perotis","50","Severity","b_sev",0.33,-0.338,1.019,0.787
+"western red bat","Western red","Lasiurus blossevillii","500","Intercept (occ)","beta",-1.092,-2.487,0.358,0.097
+"western red bat","Western red","Lasiurus blossevillii","500","Intercept (det)","alpha",-2.429,-3.226,-1.607,0
+"western red bat","Western red","Lasiurus blossevillii","500","Severity","b_sev",0.115,-0.397,0.651,0.64
+"western red bat","Western red","Lasiurus blossevillii","500","Day Sq","a_jday2",-0.421,-0.815,-0.051,0.028
+"western red bat","Western red","Lasiurus blossevillii","500","Pyrodiversity","b_sevsd",0.459,-0.042,0.971,0.933
+"western red bat","Western red","Lasiurus blossevillii","500","Water Distance","b_distw",0.277,-0.32,0.869,0.784
+"western red bat","Western red","Lasiurus blossevillii","500","Day","a_jday",0.284,-0.094,0.658,0.893
+"western red bat","Western red","Lasiurus blossevillii","500","SMM_U1","a_mic",0.769,0.045,1.431,0.961
+"western red bat","Western red","Lasiurus blossevillii","500","Severity Sq","b_sevsq",0.407,-0.13,0.969,0.892
+"western red bat","Western red","Lasiurus blossevillii","500","Temperature","a_temp",0.38,0.064,0.697,0.977
+"western red bat","Western red","Lasiurus blossevillii","500","Elevation","b_elev",-0.402,-0.986,0.196,0.131
+"western red bat","Western red","Lasiurus blossevillii","500","Noise","a_noise",-0.325,-0.553,-0.089,0.008
+"western red bat","Western red","Lasiurus blossevillii","500","Canopy Cover","a_cc",-0.161,-0.43,0.118,0.171
+"hoary bat","Hoary","Lasiurus cinereus","500","SMM_U1","a_mic",-0.105,-0.4,0.197,0.285
+"hoary bat","Hoary","Lasiurus cinereus","500","Noise","a_noise",-0.565,-0.712,-0.416,0
+"hoary bat","Hoary","Lasiurus cinereus","500","Intercept (det)","alpha",-0.963,-1.264,-0.669,0
+"hoary bat","Hoary","Lasiurus cinereus","500","Severity Sq","b_sevsq",0.19,-0.222,0.63,0.77
+"hoary bat","Hoary","Lasiurus cinereus","500","Severity","b_sev",0.346,-0.043,0.729,0.923
+"hoary bat","Hoary","Lasiurus cinereus","500","Temperature","a_temp",0.049,-0.12,0.235,0.664
+"hoary bat","Hoary","Lasiurus cinereus","500","Intercept (occ)","beta",0.5,-0.445,1.429,0.83
+"hoary bat","Hoary","Lasiurus cinereus","500","Pyrodiversity","b_sevsd",0.293,-0.05,0.641,0.918
+"hoary bat","Hoary","Lasiurus cinereus","500","Water Distance","b_distw",-0.072,-0.475,0.289,0.381
+"hoary bat","Hoary","Lasiurus cinereus","500","Day","a_jday",-0.217,-0.375,-0.055,0.012
+"hoary bat","Hoary","Lasiurus cinereus","500","Canopy Cover","a_cc",-0.095,-0.26,0.073,0.175
+"hoary bat","Hoary","Lasiurus cinereus","500","Elevation","b_elev",-0.172,-0.561,0.2,0.231
+"hoary bat","Hoary","Lasiurus cinereus","500","Day Sq","a_jday2",0.001,-0.163,0.17,0.513
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Day","a_jday",-0.276,-0.435,-0.114,0.002
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Intercept (det)","alpha",-0.152,-0.421,0.115,0.167
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Pyrodiversity","b_sevsd",-0.278,-0.619,0.054,0.08
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Severity","b_sev",0.438,0.021,0.857,0.96
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Severity Sq","b_sevsq",-0.098,-0.55,0.363,0.357
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Temperature","a_temp",0.631,0.465,0.803,1
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","SMM_U1","a_mic",0.3,0.037,0.564,0.97
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Water Distance","b_distw",-0.073,-0.421,0.268,0.371
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Intercept (occ)","beta",1.452,0.059,2.781,0.957
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Day Sq","a_jday2",-0.065,-0.233,0.092,0.252
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Elevation","b_elev",0.203,-0.172,0.574,0.814
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Canopy Cover","a_cc",-0.809,-0.966,-0.653,0
+"silver-haired bat","Silver-haired","Lasionycteris noctivagans","100","Noise","a_noise",-1.021,-1.197,-0.853,0
+"California myotis","California","Myotis californicus","500","Canopy Cover","a_cc",0.026,-0.104,0.156,0.634
+"California myotis","California","Myotis californicus","500","Water Distance","b_distw",0.237,-0.19,0.655,0.833
+"California myotis","California","Myotis californicus","500","Day Sq","a_jday2",0.147,0.009,0.294,0.959
+"California myotis","California","Myotis californicus","500","Elevation","b_elev",0.129,-0.275,0.534,0.697
+"California myotis","California","Myotis californicus","500","Temperature","a_temp",0.85,0.688,1.012,1
+"California myotis","California","Myotis californicus","500","Severity","b_sev",0.472,0.054,0.911,0.967
+"California myotis","California","Myotis californicus","500","Intercept (det)","alpha",0.919,0.694,1.135,1
+"California myotis","California","Myotis californicus","500","Noise","a_noise",-0.296,-0.443,-0.155,0
+"California myotis","California","Myotis californicus","500","Day","a_jday",0.109,-0.032,0.25,0.896
+"California myotis","California","Myotis californicus","500","Intercept (occ)","beta",2.442,0.915,3.698,0.993
+"California myotis","California","Myotis californicus","500","Pyrodiversity","b_sevsd",0.037,-0.388,0.455,0.556
+"California myotis","California","Myotis californicus","500","SMM_U1","a_mic",0.289,0.037,0.549,0.971
+"California myotis","California","Myotis californicus","500","Severity Sq","b_sevsq",-0.274,-0.738,0.224,0.166
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Canopy Cover","a_cc",-0.115,-0.372,0.145,0.231
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Day","a_jday",0.097,-0.216,0.42,0.691
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","SMM_U1","a_mic",-0.04,-0.528,0.44,0.443
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Day Sq","a_jday2",-0.14,-0.478,0.199,0.245
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Pyrodiversity","b_sevsd",-0.285,-0.669,0.08,0.1
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Intercept (occ)","beta",-0.447,-1.271,0.355,0.163
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Severity","b_sev",-0.253,-0.636,0.111,0.13
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Elevation","b_elev",0.118,-0.267,0.495,0.7
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Noise","a_noise",-0.148,-0.416,0.126,0.177
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Water Distance","b_distw",-0.079,-0.442,0.272,0.353
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Intercept (det)","alpha",-1.48,-1.914,-1.038,0
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Temperature","a_temp",0.701,0.406,1.004,1
+"small-footed myotis","Small-footed","Myotis ciliolabrum","500","Severity Sq","b_sevsq",-0.335,-0.746,0.071,0.095
+"long-eared myotis","Long-eared","Myotis evotis","250","Intercept (det)","alpha",-0.551,-0.764,-0.34,0
+"long-eared myotis","Long-eared","Myotis evotis","250","Water Distance","b_distw",-0.033,-0.444,0.339,0.455
+"long-eared myotis","Long-eared","Myotis evotis","250","Severity Sq","b_sevsq",-0.079,-0.531,0.396,0.384
+"long-eared myotis","Long-eared","Myotis evotis","250","Temperature","a_temp",0.124,-0.019,0.266,0.921
+"long-eared myotis","Long-eared","Myotis evotis","250","Day","a_jday",0.51,0.366,0.651,1
+"long-eared myotis","Long-eared","Myotis evotis","250","SMM_U1","a_mic",0.508,0.274,0.74,1
+"long-eared myotis","Long-eared","Myotis evotis","250","Canopy Cover","a_cc",0.199,0.085,0.31,0.997
+"long-eared myotis","Long-eared","Myotis evotis","250","Day Sq","a_jday2",0.053,-0.087,0.193,0.736
+"long-eared myotis","Long-eared","Myotis evotis","250","Intercept (occ)","beta",1.593,0.538,2.502,0.989
+"long-eared myotis","Long-eared","Myotis evotis","250","Elevation","b_elev",0.397,0.03,0.77,0.961
+"long-eared myotis","Long-eared","Myotis evotis","250","Pyrodiversity","b_sevsd",0.038,-0.336,0.399,0.567
+"long-eared myotis","Long-eared","Myotis evotis","250","Severity","b_sev",0.441,0.028,0.863,0.961
+"long-eared myotis","Long-eared","Myotis evotis","250","Noise","a_noise",-0.504,-0.631,-0.375,0
+"little brown bat","Little brown","Myotis lucifugus","250","Temperature","a_temp",0.408,0.235,0.588,1
+"little brown bat","Little brown","Myotis lucifugus","250","Water Distance","b_distw",-0.256,-0.618,0.103,0.111
+"little brown bat","Little brown","Myotis lucifugus","250","Intercept (det)","alpha",-0.644,-0.967,-0.335,0
+"little brown bat","Little brown","Myotis lucifugus","250","Day Sq","a_jday2",-0.501,-0.669,-0.33,0
+"little brown bat","Little brown","Myotis lucifugus","250","Severity Sq","b_sevsq",0.159,-0.272,0.598,0.732
+"little brown bat","Little brown","Myotis lucifugus","250","Day","a_jday",-0.035,-0.224,0.16,0.373
+"little brown bat","Little brown","Myotis lucifugus","250","Noise","a_noise",-0.3,-0.429,-0.172,0
+"little brown bat","Little brown","Myotis lucifugus","250","Pyrodiversity","b_sevsd",0.442,0.111,0.794,0.985
+"little brown bat","Little brown","Myotis lucifugus","250","Intercept (occ)","beta",0.402,-0.8,1.64,0.712
+"little brown bat","Little brown","Myotis lucifugus","250","Canopy Cover","a_cc",0.012,-0.153,0.174,0.541
+"little brown bat","Little brown","Myotis lucifugus","250","Severity","b_sev",0.312,-0.056,0.691,0.912
+"little brown bat","Little brown","Myotis lucifugus","250","Elevation","b_elev",0.418,0.061,0.769,0.972
+"little brown bat","Little brown","Myotis lucifugus","250","SMM_U1","a_mic",1.062,0.748,1.392,1
+"fringed myotis","Fringed","Myotis thysanodes","500","Day Sq","a_jday2",0.173,-0.041,0.389,0.906
+"fringed myotis","Fringed","Myotis thysanodes","500","Elevation","b_elev",-0.08,-0.424,0.28,0.348
+"fringed myotis","Fringed","Myotis thysanodes","500","Severity Sq","b_sevsq",0.011,-0.375,0.403,0.518
+"fringed myotis","Fringed","Myotis thysanodes","500","Water Distance","b_distw",-0.062,-0.411,0.276,0.382
+"fringed myotis","Fringed","Myotis thysanodes","500","SMM_U1","a_mic",0.71,0.387,1.017,1
+"fringed myotis","Fringed","Myotis thysanodes","500","Intercept (det)","alpha",-1.307,-1.643,-0.985,0
+"fringed myotis","Fringed","Myotis thysanodes","500","Pyrodiversity","b_sevsd",0.117,-0.209,0.452,0.725
+"fringed myotis","Fringed","Myotis thysanodes","500","Noise","a_noise",-0.152,-0.295,-0.007,0.044
+"fringed myotis","Fringed","Myotis thysanodes","500","Canopy Cover","a_cc",0.036,-0.144,0.216,0.635
+"fringed myotis","Fringed","Myotis thysanodes","500","Temperature","a_temp",0.166,-0.05,0.384,0.895
+"fringed myotis","Fringed","Myotis thysanodes","500","Intercept (occ)","beta",-0.308,-1.486,0.895,0.332
+"fringed myotis","Fringed","Myotis thysanodes","500","Severity","b_sev",0.637,0.284,0.997,0.999
+"fringed myotis","Fringed","Myotis thysanodes","500","Day","a_jday",0.45,0.258,0.652,1
+"long-legged myotis","Long-legged","Myotis volans","500","Severity Sq","b_sevsq",0.016,-0.608,0.707,0.508
+"long-legged myotis","Long-legged","Myotis volans","500","Pyrodiversity","b_sevsd",-0.318,-0.99,0.359,0.215
+"long-legged myotis","Long-legged","Myotis volans","500","SMM_U1","a_mic",-0.143,-0.779,0.488,0.36
+"long-legged myotis","Long-legged","Myotis volans","500","Intercept (occ)","beta",-0.215,-1.847,1.818,0.382
+"long-legged myotis","Long-legged","Myotis volans","500","Day Sq","a_jday2",-0.207,-0.69,0.263,0.248
+"long-legged myotis","Long-legged","Myotis volans","500","Intercept (det)","alpha",-3.264,-4.194,-2.246,0
+"long-legged myotis","Long-legged","Myotis volans","500","Water Distance","b_distw",-0.062,-0.744,0.617,0.436
+"long-legged myotis","Long-legged","Myotis volans","500","Canopy Cover","a_cc",0.082,-0.353,0.497,0.632
+"long-legged myotis","Long-legged","Myotis volans","500","Severity","b_sev",-0.034,-0.701,0.641,0.466
+"long-legged myotis","Long-legged","Myotis volans","500","Noise","a_noise",-0.208,-0.595,0.182,0.187
+"long-legged myotis","Long-legged","Myotis volans","500","Temperature","a_temp",0,-0.45,0.456,0.506
+"long-legged myotis","Long-legged","Myotis volans","500","Elevation","b_elev",0.337,-0.344,0.993,0.816
+"long-legged myotis","Long-legged","Myotis volans","500","Day","a_jday",0.169,-0.291,0.639,0.731
+"Yuma myotis","Yuma","Myotis yumanensis","250","Severity Sq","b_sevsq",0.179,-0.319,0.697,0.72
+"Yuma myotis","Yuma","Myotis yumanensis","250","Intercept (occ)","beta",-0.036,-0.938,0.89,0.478
+"Yuma myotis","Yuma","Myotis yumanensis","250","Intercept (det)","alpha",-1.641,-2.005,-1.284,0
+"Yuma myotis","Yuma","Myotis yumanensis","250","SMM_U1","a_mic",0.12,-0.227,0.469,0.72
+"Yuma myotis","Yuma","Myotis yumanensis","250","Noise","a_noise",-0.369,-0.53,-0.21,0
+"Yuma myotis","Yuma","Myotis yumanensis","250","Day","a_jday",-0.136,-0.347,0.078,0.139
+"Yuma myotis","Yuma","Myotis yumanensis","250","Day Sq","a_jday2",-0.003,-0.209,0.208,0.488
+"Yuma myotis","Yuma","Myotis yumanensis","250","Elevation","b_elev",-0.032,-0.428,0.366,0.445
+"Yuma myotis","Yuma","Myotis yumanensis","250","Pyrodiversity","b_sevsd",0.476,0.125,0.846,0.986
+"Yuma myotis","Yuma","Myotis yumanensis","250","Severity","b_sev",0.562,0.112,1.023,0.982
+"Yuma myotis","Yuma","Myotis yumanensis","250","Water Distance","b_distw",-0.271,-0.686,0.116,0.122
+"Yuma myotis","Yuma","Myotis yumanensis","250","Canopy Cover","a_cc",0.089,-0.104,0.283,0.778
+"Yuma myotis","Yuma","Myotis yumanensis","250","Temperature","a_temp",0.509,0.288,0.732,1
+"canyon bat","Canyon","Parastrellus hesperus","250","Day","a_jday",0.027,-0.183,0.245,0.574
+"canyon bat","Canyon","Parastrellus hesperus","250","Severity Sq","b_sevsq",-0.37,-0.866,0.112,0.106
+"canyon bat","Canyon","Parastrellus hesperus","250","Water Distance","b_distw",-0.004,-0.425,0.393,0.502
+"canyon bat","Canyon","Parastrellus hesperus","250","Canopy Cover","a_cc",-0.29,-0.493,-0.085,0.012
+"canyon bat","Canyon","Parastrellus hesperus","250","Intercept (occ)","beta",0.182,-1.228,1.616,0.586
+"canyon bat","Canyon","Parastrellus hesperus","250","Severity","b_sev",0.045,-0.411,0.497,0.56
+"canyon bat","Canyon","Parastrellus hesperus","250","Day Sq","a_jday2",-0.262,-0.495,-0.032,0.03
+"canyon bat","Canyon","Parastrellus hesperus","250","Noise","a_noise",-0.191,-0.349,-0.03,0.027
+"canyon bat","Canyon","Parastrellus hesperus","250","Temperature","a_temp",0.549,0.323,0.77,1
+"canyon bat","Canyon","Parastrellus hesperus","250","Pyrodiversity","b_sevsd",0.071,-0.295,0.424,0.631
+"canyon bat","Canyon","Parastrellus hesperus","250","Elevation","b_elev",-0.306,-0.753,0.139,0.128
+"canyon bat","Canyon","Parastrellus hesperus","250","Intercept (det)","alpha",-1.356,-1.693,-1.024,0
+"canyon bat","Canyon","Parastrellus hesperus","250","SMM_U1","a_mic",0.151,-0.197,0.502,0.76
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Intercept (det)","alpha",1.51,1.29,1.739,1
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Water Distance","b_distw",0.256,-0.365,0.829,0.761
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Noise","a_noise",-1.113,-1.295,-0.935,0
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Temperature","a_temp",0.336,0.174,0.489,1
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Day","a_jday",0.39,0.246,0.539,1
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Day Sq","a_jday2",-0.334,-0.473,-0.201,0
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Pyrodiversity","b_sevsd",-0.078,-0.664,0.504,0.405
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Intercept (occ)","beta",3.732,2.228,5.028,0.998
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Severity Sq","b_sevsq",0.084,-0.618,0.824,0.572
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","SMM_U1","a_mic",-0.359,-0.586,-0.133,0.004
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Severity","b_sev",0.425,-0.226,1.078,0.864
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Canopy Cover","a_cc",-0.413,-0.526,-0.305,0
+"Mexican free-tailed bat","Free-tailed","Tadarida brasiliensis","500","Elevation","b_elev",0.16,-0.44,0.766,0.668
