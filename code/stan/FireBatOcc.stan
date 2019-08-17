@@ -113,23 +113,23 @@ model {
   sigma_b_fire ~ normal(0, 1);
   tilde_b_fire ~ normal(0, 1);
   
-  sigma_b_site ~ normal(0, 0.5);
-  tilde_b_site ~ normal(0, 0.5);
+  sigma_b_site ~ normal(0, 1);
+  tilde_b_site ~ normal(0, 1);
   
-  b_distw ~ normal(0, 0.5);
-  b_elev ~ normal(0, 0.5);
-  b_sev ~ normal(0, 0.5);
-  b_sevsq ~ normal(0, 0.5);
-  b_sevsd ~ normal(0, 0.5);
+  b_distw ~ normal(0, 1);
+  b_elev ~ normal(0, 1);
+  b_sev ~ normal(0, 1);
+  b_sevsq ~ normal(0, 1);
+  b_sevsd ~ normal(0, 1);
   
-  alpha ~ normal(0, 1.5);
+  alpha ~ normal(0, 1);
   
-  a_jday ~ normal(0, 0.5);
-  a_jday2 ~ normal(0, 0.5);
-  a_cc ~ normal(0, 0.5);
-  a_mic ~ normal(0, 0.5);
-  a_noise ~ normal(0, 0.5);
-  a_temp ~ normal(0, 0.5);
+  a_jday ~ normal(0, 1);
+  a_jday2 ~ normal(0, 1);
+  a_cc ~ normal(0, 1);
+  a_mic ~ normal(0, 1);
+  a_noise ~ normal(0, 1);
+  a_temp ~ normal(0, 1);
   
   // increment the log density
   target += sum(log_lik);
