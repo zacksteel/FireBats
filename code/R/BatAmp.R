@@ -2,6 +2,7 @@
 ## Project: FireBAts
 
 library(tidyverse)
+library(lubridate)
 
 ## Bring in count data
 d <- read.csv("data/counts.csv") %>% 
@@ -19,8 +20,10 @@ d <- read.csv("data/counts.csv") %>%
          call_id_2 = NA,
          site_ID = forest,
          det_id = point,
-         species = toupper(species)
-         ) %>% 
+         species = toupper(species),
+         night = ymd(night),
+         night = format(night, format="%m/%d/%Y")
+  ) %>% 
   ## remove some columns
   select(-point, -sm3_u1, -forest)
 
