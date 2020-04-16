@@ -17,12 +17,14 @@ d <- read.csv("data/counts.csv") %>%
          refl_type = "None",
          mic_ht_units = "meters",
          call_id_1 = "Sonobat 3",
-         call_id_2 = NA,
+         call_id_2 = "None",
          site_ID = forest,
          det_id = point,
          species = toupper(species),
          night = ymd(night),
-         night = format(night, format="%m/%d/%Y")
+         night = format(night, format="%m/%d/%Y"),
+         ## long should be negative
+         x_coord = x_coord * -1
   ) %>% 
   ## remove some columns
   select(-point, -sm3_u1, -forest)
